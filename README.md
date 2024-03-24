@@ -8,8 +8,8 @@
 # HOW TO USE
 
 1. Simply Download from the github official Roblox FPS Manager release Page.
-- 2. Drag it into your Desktop and unzip it via Windows's unzipping system, 7zip or other.
-- 3. Open the .bat file.
-- 4. Put in the desired FPS you want and hit Enter.
-- 5. When you get a message saying: Roblox will run at (360) Frames Per Second (FPS) close the .bat file.
-- 6. Restart Roblox if you have it opened.
+2. Drag it into your Desktop and unzip it via Windows's unzipping system, 7zip or other.
+3. Open the .bat file.
+4. Put in the desired FPS you want and hit Enter.
+5. When you get a message saying: Roblox will run at (360) Frames Per Second (FPS) close the .bat file.
+6. Restart Roblox if you have it opened.
