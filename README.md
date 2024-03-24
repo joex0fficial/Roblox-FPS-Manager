@@ -1,10 +1,9 @@
 # Roblox-FPS-Manager
-![Roblox_FPS_Manager](https://github.com/joex0fficial/Roblox-FPS-Manager/assets/162143805/4d2fa78d-9e47-4aa7-b830-64a9a5866e60)
 - This open source .bat file will uncap your Roblox capped FPS which is 60 FPS with your desired FPS with no Application requred.
 - Useful for people that does not trust Third-Party Roblox FPS Applications and for people that reinstalls their Roblox many times.
 - No Third-Party-Application required.
 - 1 time use.
-
+![Roblox_FPS_Manager](https://github.com/joex0fficial/Roblox-FPS-Manager/assets/162143805/4d2fa78d-9e47-4aa7-b830-64a9a5866e60)
 
 # HOW TO USE
 
