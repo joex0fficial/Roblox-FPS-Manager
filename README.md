@@ -7,7 +7,7 @@
 
 # HOW TO USE
 
-- 1. Simply Download from the github official Roblox FPS Manager release Page.
+1. Simply Download from the github official Roblox FPS Manager release Page.
 - 2. Drag it into your Desktop and unzip it via Windows's unzipping system, 7zip or other.
 - 3. Open the .bat file.
 - 4. Put in the desired FPS you want and hit Enter.
